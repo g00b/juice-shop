@@ -133,7 +133,7 @@
     "express-rate-limit": "^5.3.0",
     "express-robots-txt": "^0.4.1",
     "express-security.txt": "^2.0.0",
-    "feature-policy": "^0.5.0",
+    "feature-policy": "^0.6.0",
     "file-stream-rotator": "^0.5.7",
     "file-type": "^16.1.0",
     "filesniffer": "^1.0.3",
